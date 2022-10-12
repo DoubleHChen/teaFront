@@ -1,0 +1,19 @@
+@font-face {
+  font-family: hanyi;
+  src: url(../fonts/汉仪颜楷体繁.ttf);
+}
+
+@font-face {
+  font-family: MA;
+  src: url(../fonts/MATURASC.TTF);
+}
+
+@font-face {
+  font-family: yuwei;
+  src: url(../fonts/YuWeiShuFaYunMoFanTi-2.ttf);
+}
+
+@font-face {
+  font-family: hanjian;
+  src: url(../fonts/汉仪程行简.TTF);
+}
